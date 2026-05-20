@@ -1,0 +1,21 @@
+{
+  "scale": [
+    1.0,
+    2.0,
+    3.0
+  ],
+  "position": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "rotation": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "body_part": "left_arm",
+  "backslot_model": "dirt.json",
+  "backslot_model_armored": "",
+  "relocate_with_chestplate": true
+}
